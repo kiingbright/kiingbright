@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiingbright
 - 👀 I’m interested in learning from more established developers
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Kotlin 
+- 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me brightbalo001@gmail.com
 
 <!---
